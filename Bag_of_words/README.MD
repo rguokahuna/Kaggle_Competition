@@ -10,7 +10,7 @@ Goal: Sentiment analysis on movie reviews
   - Ensemble logistic regression, stochastic gradient descent and naive bayes models
   
 2. auxiliary.py
-  - Perform data clearning: html tags removing, stopwords removing
+  - Perform data cleaning: html tags removing, stopwords removing
   - Perform data wrangling 
 
 3. Word2Vec_auxiliary.ipynb
